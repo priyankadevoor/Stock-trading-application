@@ -1,0 +1,11 @@
+name,price,quantity,max_trade
+GameStart,15.99,100,50
+FishCo,10.0,100,10
+BoarCo,30.25,100,20
+MenhirCo,90.0,100,15
+Starbucks,50.0,100,3
+Dominos,60.0,100,5
+McD,30.0,100,3
+Nike,90.0,100,2
+Puma,70.0,100,5
+Adidas,60.0,100,3
